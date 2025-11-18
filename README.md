@@ -1,16 +1,51 @@
-# React + Vite
+# Real Root – Creative Business Solutions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Website Screenshot](./screenshot.jpg)
 
-Currently, two official plugins are available:
+## 🚀 Live Demo  
+🔗 **https://real-root.vercel.app/**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📝 Overview  
+**Real Root** is a modern, responsive, and visually appealing website created to help businesses grow through powerful branding, creative design, and digital marketing services.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The interface is clean, professional, and fully optimized for all screen sizes, making it ideal for agencies, freelancers, and companies showcasing their services.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌟 Features  
+- ⚡ Modern Hero Section with CTA  
+- 🧩 “Why Choose Us” section with service cards  
+- 🧑‍💼 Professional “About Us” section  
+- 📱 Fully responsive layout (mobile/tablet/desktop)  
+- 🎨 Beautiful UI with gradient accents  
+- 🔄 Smooth navigation and clean component structure  
+
+---
+
+## 🛠 Tech Stack  
+- **React.js** – Frontend  
+- **Tailwind CSS** – Styling  
+- **Firebase (Future Ready)** – Backend services  
+- **Vercel** – Deployment  
+- **JavaScript (ES6+)**
+
+---
+
+
+
+## 📦 Installation & Setup  
+```bash
+# Clone repository
+git clone <repository-url>
+
+# Go inside project
+cd real-root
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
