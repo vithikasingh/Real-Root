@@ -1,7 +1,5 @@
 # Real Root – Creative Business Solutions
 
-![Website Screenshot](./screenshot.jpg)
-
 ## 🚀 Live Demo  
 🔗 **https://real-root.vercel.app/**
 
@@ -13,6 +11,8 @@
 The interface is clean, professional, and fully optimized for all screen sizes, making it ideal for agencies, freelancers, and companies showcasing their services.
 
 ---
+
+![Website Screenshot](./screenshot.jpg)
 
 ## 🌟 Features  
 - ⚡ Modern Hero Section with CTA  
